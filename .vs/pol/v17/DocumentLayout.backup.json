@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tema2\\polit\\pol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA84BE6-1B43-4403-AFC7-C57850F65617}|pol.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tema2\\polit\\pol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA84BE6-1B43-4403-AFC7-C57850F65617}|pol.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tema2\\polit\\pol\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\tema2\\polit\\pol\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:20:02.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
